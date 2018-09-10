@@ -149,7 +149,7 @@ public class Database {
      * @throws SQLException
      */
     public ArrayList<ArrayList<String>> getAmountsByMonth() throws SQLException {
-        return getTableData("SELECT DATE_FORMAT(timestamp, '%b') AS 'MONTH', SUM(amount) AS 'TOTAL' FROM record GROUP BY MONTH(timestamp)");
+        return getTableData("SELECT ANY_VALUE(DATE_FORMAT(timestamp, '%b')) AS 'MONTH', SUM(amount) AS 'TOTAL' FROM record GROUP BY MONTH(timestamp)");
     }
 
     /**

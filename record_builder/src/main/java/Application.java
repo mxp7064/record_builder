@@ -150,7 +150,7 @@ public class Application {
             File jarPath = Utils.getJarPath();
 
             // Get incoming directory path
-            String incomingDirectoryPath = jarPath.getParentFile().getAbsolutePath() + "\\" + "incoming";
+            String incomingDirectoryPath = jarPath.getParentFile().getAbsolutePath() + "/" + "incoming";
 
             // Watch incoming directory for new files
             watchDirectory(Paths.get(incomingDirectoryPath));
