@@ -102,7 +102,7 @@ public class Application {
 
                             // Move the file to the processed directory
                             File jarPath = Utils.getJarPath();
-                            String processedDirectoryPath = jarPath.getParentFile().getAbsolutePath() + "\\" + "processed\\" + newPath;
+                            String processedDirectoryPath = jarPath.getParentFile().getAbsolutePath() + "/" + "processed/" + newPath;
                             Files.move(Paths.get(fullPath), Paths.get(processedDirectoryPath), StandardCopyOption.REPLACE_EXISTING);
 
                             // Get total records found count
