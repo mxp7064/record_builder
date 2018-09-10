@@ -84,7 +84,7 @@ public class Application {
                             Instant start = Instant.now();
 
                             // Process the file and get the number of records processed
-                            String fullPath = path.toString() + "\\" + newPath;
+                            String fullPath = path.toString() + "/" + newPath;
                             int recordsProcessed = Utils.processFile(fullPath);
                             System.out.println("Number of records processed from the file: " + recordsProcessed);
 

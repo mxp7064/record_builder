@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c7081d-3230-4335-b58d-50c8ca627a5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-record_builder-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-record_builder-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/record_builder-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/record_builder-1.0.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,7 +18,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -57,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
+            <state relative-caret-position="2533">
               <caret line="150" column="81" selection-start-line="150" selection-start-column="81" selection-end-line="150" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="155" column="61" lean-forward="true" selection-start-line="155" selection-start-column="61" selection-end-line="155" selection-end-column="61" />
+            <state relative-caret-position="265">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -189,7 +182,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -289,23 +281,24 @@
       <option name="presentableId" value="Default" />
       <updated>1536184964263</updated>
       <workItem from="1536577186160" duration="2495000" />
+      <workItem from="1536582612417" duration="178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2495000" />
+    <option name="totallyTimeSpent" value="2673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.18981972" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.29718006" />
@@ -317,7 +310,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32979852" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -326,6 +319,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.19616205" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14739583" />
@@ -385,7 +379,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
+        <state relative-caret-position="2533">
           <caret line="150" column="81" selection-start-line="150" selection-start-column="81" selection-end-line="150" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -395,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="155" column="61" lean-forward="true" selection-start-line="155" selection-start-column="61" selection-end-line="155" selection-end-column="61" />
+        <state relative-caret-position="265">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
